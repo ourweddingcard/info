@@ -50,10 +50,9 @@ const App = () => {
     <div className="wrapper">
       <img className="icon" src={ringIcon} alt="" />
       <div className="namesWrapper">
-        <Arrows className="arrow" height={100} />
+        <Arrows className="arrow" />
         <img className="icon" src={namesIcon} alt="" />
         <div className="countdownWrapper">
-          <div className="countdownText">До свадьбы осталось</div>
           <div className="timer">
             <div>
               <div className="digits">{date.days}</div>
@@ -76,13 +75,20 @@ const App = () => {
       </div>
       <img className="icon" src={infoIcon} alt="" />
 
-      <img className="icon" src={calendarIcon} alt="" />
+      <img
+        style={{ marginBottom: 10 }}
+        className="icon"
+        src={calendarIcon}
+        alt=""
+      />
 
       <Map
         title="Церковь Святой Рипсиме 15:20"
         subtitle="Вагаршапат, улица Месропа Маштоца"
         center={[40.167022928468754, 44.30953092642682]}
       />
+
+      <br />
 
       <Map
         title="Ресторан Нор Двин 17:30"
