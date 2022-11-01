@@ -1,19 +1,18 @@
 {
   "files": {
-    "main.css": "/info/static/css/main.f7f30c09.css",
-    "main.js": "/info/static/js/main.f50ec8ce.js",
-    "static/media/YuGothR.ttc": "/info/static/media/YuGothR.de1577b9ed1f440e76c9.ttc",
+    "main.css": "/info/static/css/main.330eaf00.css",
+    "main.js": "/info/static/js/main.fc5322f8.js",
     "static/media/ring.jpg": "/info/static/media/ring.c721753df215965b2328.jpg",
     "static/media/info.jpg": "/info/static/media/info.cf1f728677e697eaecfb.jpg",
-    "static/media/names.jpg": "/info/static/media/names.920ec711278d2c473fcd.jpg",
+    "static/media/names.jpg": "/info/static/media/names.4cfbf86cd000fda2229b.jpg",
     "static/media/calendar.jpg": "/info/static/media/calendar.f2af6ef419cad55af81f.jpg",
     "index.html": "/info/index.html",
     "static/media/arrows.svg": "/info/static/media/arrows.a4c8c1fc29963661b8fd27cab40bbede.svg",
-    "main.f7f30c09.css.map": "/info/static/css/main.f7f30c09.css.map",
-    "main.f50ec8ce.js.map": "/info/static/js/main.f50ec8ce.js.map"
+    "main.330eaf00.css.map": "/info/static/css/main.330eaf00.css.map",
+    "main.fc5322f8.js.map": "/info/static/js/main.fc5322f8.js.map"
   },
   "entrypoints": [
-    "static/css/main.f7f30c09.css",
-    "static/js/main.f50ec8ce.js"
+    "static/css/main.330eaf00.css",
+    "static/js/main.fc5322f8.js"
   ]
 }
